@@ -1,0 +1,6 @@
+WVPw6B2EndQrQvrs
+
+
+npm install mongodb
+
+mongodb+srv://lazarmrgud91:<password>@cluster0.uoaw3jm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
